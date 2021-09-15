@@ -1,6 +1,7 @@
 # Criar uma variável com seu nome, uma variável com sua idade.
 # Imprimir o resultado em uma frase: Meu nome é Rafael e tenho 30 anos.
 # utilizando as variaveis que você criou.
+puts "Exercício 1:"
 
 name = "Caio"
 age = "19"
@@ -16,6 +17,7 @@ puts "Meu nome é #{name} e minha idade é #{age} anos!"
 # seu código deve retornar quanto custa a mesa e quanto custa a cadeira em dólar e em euro.
 # NOTA: Você NÃO pode digitar nenhum número enquanto resolver esse exercício.
 # Utilize as operações matemáticas e variáveis.
+puts "Exercício 2:"
 
 dolar = 5.00
 euro = 6.00
@@ -36,6 +38,7 @@ puts "O valor da cadeira em euro é de #{cadeira/euro} € e da mesa é #{mesa/e
 # Você NÃO pode digitar nenhum número enquanto resolver o exercício. 
 # você SÓ pode usar no máximo uma vez cada operação matemática: *, /, +, - ou seja,
 # não pode somar duas vezes ou diminuir duas vezes. No máximo uma operação de cada.
+puts "Exercício 3:"
 
 a = 2
 b = 5
