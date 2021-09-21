@@ -44,7 +44,7 @@ nome = "Caio"
 idade = 19
 
 
-(1..19).each do |i|
+(1..idade).each do |i|
 	if i == idade
 		puts "#{nome} tem #{i} ano(s)"
 	else
@@ -109,7 +109,7 @@ temperatura_max_celsius = 40
 		puts "#{t}ºC = quente"
 	elsif t >=20 and t <=29
 		puts "#{t}ºC = agradável"
-	else
+	elsif t <=19
 		puts "#{t}ºC = frio"
 	end
 end
